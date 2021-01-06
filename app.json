@@ -1,0 +1,12 @@
+{
+  "name": "ITCenterBoss",
+  "displayName": "ITCenterBoss",
+  "expo": {
+    "name": "ITCenterBoss",
+    "slug": "ITCenterBoss",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
